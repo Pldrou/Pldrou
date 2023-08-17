@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Pldrou, a Computer Engineering student from Cyprus!
-- 👀 I’m interested in expanding my skill in coding.
-- 🌱 I’m currently learning how to not die from studying Engineering :)
-- 💞️ I’m looking to collaborate on anything really.
-- 📫 How to reach me: email-> mikepol303@gmail.com
+- 🌱 If errors were dollars, I'd be a millionaire by now. 
+- 📫 How to reach me: please don't.
+- 🤷‍♂️🔍💻
 
 <!---
 Pldrou/Pldrou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
